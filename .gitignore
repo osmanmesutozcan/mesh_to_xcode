@@ -1,0 +1,4 @@
+*.blend
+*.blend1
+
+! develop_scene.blend
